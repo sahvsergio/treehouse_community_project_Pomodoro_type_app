@@ -1,7 +1,7 @@
 // completed task
 
-var tasksCompleted;
-var isTaskComplete;
+let tasksCompleted;
+let isTaskComplete;
 
 //advise the person that time is up
 
